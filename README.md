@@ -1,0 +1,14 @@
+#Jsoup
+简介
+    http解析器，类似于jquery方式操作。
+    简而言之：httpclient爬取网页信息，jsoup提取网页信息。
+2.编码
+    1.httpclient获取httpEntity
+    2.jsoup解析httpEntity的html内容  
+3.查找dom元素
+    1.
+    2.
+    3.
+    4.
+    5.
+4.获取dom元素属性值
